@@ -1,5 +1,7 @@
 ![](https://raw.githubusercontent.com/CrowdStrike/falconpy/main/docs/asset/cs-logo.png)
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/c64fe6c3-808e-4f74-be42-50d1df312b61.svg)](https://app.soluble.cloud/repos/details/github.com/bvenkat-lw/cloud-aws)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/a56af908-06de-4671-8f58-f3e785f0536b.svg)](https://app.soluble.cloud/repos/details/github.com/bvenkat-lw/cloud-aws)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/2b7041d7-fc31-4b01-87db-e0743d64d67e.svg)](https://app.soluble.cloud/repos/details/github.com/bvenkat-lw/cloud-aws)  
+
 
 ## AWS Service Integrations
 | Integration Name | Description |
